@@ -19,7 +19,6 @@
             height: 60px;
         }
 
-
         #navigation
         {
             position: absolute;
